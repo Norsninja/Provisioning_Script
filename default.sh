@@ -19,6 +19,14 @@ CHECKPOINT_MODELS=(
 
 LORA_MODELS=(
     "https://civitai.com/api/download/models/16576"
+    # "https://huggingface.co/guoyww/animatediff/blob/main/v2_lora_ZoomIn.ckpt"
+    # "https://huggingface.co/guoyww/animatediff/blob/main/v2_lora_ZoomOut.ckpt"
+    # "https://huggingface.co/guoyww/animatediff/blob/main/v2_lora_PanLeft.ckpt"
+    # "https://huggingface.co/guoyww/animatediff/blob/main/v2_lora_PanRight.ckpt"
+    # "https://huggingface.co/guoyww/animatediff/blob/main/v2_lora_TiltUp.ckpt"
+    # "https://huggingface.co/guoyww/animatediff/blob/main/v2_lora_TiltDown.ckpt"
+    # "https://huggingface.co/guoyww/animatediff/blob/main/v2_lora_RollingClockwise.ckpt"
+    # "https://huggingface.co/guoyww/animatediff/blob/main/v2_lora_RollingAnticlockwise.ckpt"
 )
 
 VAE_MODELS=(
